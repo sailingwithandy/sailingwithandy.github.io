@@ -104,7 +104,7 @@ header{
 	width: 100%;
 	height: 130px;
 	z-index: 99;
-	background-color: white;
+	background-color: #f3f3f3;
 	
 }
 
@@ -120,7 +120,7 @@ header .burger_icon{
 	padding: 5px 10px;
 	text-transform: uppercase;
 
-	color: #43b779;
+	color: black;
 	font-family: "open_regular", Helvetica, Arial, sans-serif;
 	font-size: 14px;
 
@@ -217,7 +217,7 @@ header .social li:first-child{
 }
 
 .hero .caption h1{
-	color: white;
+	color: #f3f3f3;
 	font-family: "open_bold", Helvetica, Arial, sans-serif;
 	font-size: 34px;
 	font-weight: bold;
@@ -225,7 +225,7 @@ header .social li:first-child{
 }
 
 .hero .caption p{
-	color: white;
+	color: #f3f3f3;
 	font-family: "open_regular", Helvetica, Arial, sans-serif;
 	font-size: 16px;
 	line-height: 30px;
@@ -246,7 +246,7 @@ a.app_store_btn{
 	border-radius: 2px;
 	margin: 20px 20px 10px 0;
 
-	color: white;
+	color: #f3f3f3;
 	font-family: "open_semibold", Helvetica, Arial, sans-serif;
 	font-size: 16px;
 }
@@ -277,8 +277,8 @@ a.app_store_btn{
 
 a.app_store_btn:hover,
 a.app_store_btn:focus{
-	border-color: grey;
-	color: grey!important;
+	border-color: #f3f3f3;
+	color: #f3f3f3!important;
 }
 
 a.app_store_btn:hover .play_icon{
