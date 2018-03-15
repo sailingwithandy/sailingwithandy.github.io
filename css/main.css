@@ -646,11 +646,12 @@ a.app_link{
 	background-image: linear-gradient(bottom, #47ad76 0%, #47ad76 0.27%, #40c27d 99.46%, #40c27d 100%);
 }
 
-.sub_box .cta_text{
+.sub_box .cta_text {
 	color: #fff;
 	font-family: "open_regular", Helvetica, Arial, sans-serif;
 	font-size: 20px;
 	margin-bottom: 5px;
+	text-decoration: none;
 }
 
 .sub_box #mc-email{
